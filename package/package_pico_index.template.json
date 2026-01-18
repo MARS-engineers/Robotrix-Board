@@ -11,7 +11,7 @@
          "platforms": [
             {
                "category": "Raspberry Pi Pico",
-               "name": "Raspberry Pi Pico/RP2040/RP2350",
+               "name": "MARS-Engineers",
                "url": "",
                "version": "",
                "architecture": "rp2040",
