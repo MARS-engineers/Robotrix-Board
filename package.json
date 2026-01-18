@@ -9,9 +9,9 @@
     "Raspberry Pi",
     "RP2040"
   ],
-  "homepage": "https://arduino-pico.readthedocs.io/en/latest/",
+  "homepage": "https://github.com/MARS-engineers/Robotrix-Board",
   "repository": {
     "type": "git",
-    "url": "https://github.com/earlephilhower/arduino-pico"
+    "url": "https://github.com/MARS-engineers/Robotrix-Board"
   }
 }
